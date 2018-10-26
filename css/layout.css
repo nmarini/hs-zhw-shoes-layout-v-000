@@ -29,9 +29,9 @@
   clear: both;
 }
 .bottom-col {
-  columns: 1px 3;
+  columns: 10px 3;
+  margin-left: 10;
   clear: both;
-
 }
 #details {
   columns: 100px 3;
