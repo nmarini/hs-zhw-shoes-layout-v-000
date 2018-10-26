@@ -42,5 +42,5 @@ footer {
     margin-bottom: 1em;
 }
 #sum-g {
-  column-span: 2;
+  float: left;
 }
