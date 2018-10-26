@@ -30,6 +30,6 @@
 .bottom-col {
   columns: 100px 3;
 }
-/*div.top-col img {
-  width: 4000px;
-}*/
+.clearfix {
+  columns: 100px 2;
+}
