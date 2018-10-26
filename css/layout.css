@@ -34,7 +34,7 @@
   clear: both;
 }
 #details {
-  columns: 10px 3;
+  columns: 10em 3;
   margin: 0 auto;
 }
 
