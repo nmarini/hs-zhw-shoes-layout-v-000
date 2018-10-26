@@ -30,6 +30,6 @@
 .bottom-col {
   columns: 100px 3;
 }
-.clearfix {
+#details {
   columns: 100px 3;
 }
