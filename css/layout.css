@@ -29,10 +29,9 @@
 }
 
 /*.row:after {
-  
+
 }*/
-[class*="col-"]
- {
+[class*="col-"] {
    float: left;
    margin-left: 2%;
  }
