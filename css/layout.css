@@ -25,9 +25,10 @@
 /* Positioning Classes */
 
 .top-col {
-  columns: 100px 2;
+  columns: 100px 3;
+  column-span: 2;
 }
 
-div.top-col img {
+/*div.top-col img {
   width: 4000px;
-}
+}*/
