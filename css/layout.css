@@ -29,7 +29,7 @@
   clear: both;
 }
 .bottom-col {
-  columns: 10px 3;
+  columns: 100px 3;
   margin: 10;
 }
 #details {
