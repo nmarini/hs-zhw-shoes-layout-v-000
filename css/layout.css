@@ -24,10 +24,12 @@
 
 /* Positioning Classes */
 
-.bottom-col {
+.top-col {
   columns: 100px 2;
 }
-
+.bottom-col {
+  columns: 100px 3;
+}
 /*div.top-col img {
   width: 4000px;
 }*/
