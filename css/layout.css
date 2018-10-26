@@ -42,7 +42,7 @@
    margin-left: 2%;
  }
 
-[class*-"col-1"]:first-child {
+[class*="col-1"]:first-child {
    margin-left: 0;
 }
 
