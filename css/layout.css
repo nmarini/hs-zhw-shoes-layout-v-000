@@ -30,7 +30,7 @@
 }
 .bottom-col {
   columns: 100px 3;
-  margin: 10;
+
 }
 #details {
   columns: 100px 3;
