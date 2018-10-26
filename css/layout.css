@@ -25,10 +25,11 @@
 /* Positioning Classes */
 
 .top-col {
-  columns: 100px 3;
+  columns: 100px 2;
 }
 .bottom-col {
   columns: 100px 3;
+  margin-left: 10;
 }
 #details {
   columns: 100px 3;
