@@ -25,10 +25,10 @@
 /* Positioning Classes */
 
 
-/*.bottom-col {
+.bottom-col {
   columns: 100px 3;
   margin-left: 10;
-}*/
+}
 #details {
   columns: 100px 3;
   width: 1000px;
