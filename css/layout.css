@@ -27,3 +27,12 @@
   clear: both;
   margin-bottom: 2%;
 }
+
+/*.row:after {
+  
+}*/
+[class*="col-"]
+ {
+   float: left;
+   margin-left: 2%;
+ }
