@@ -44,7 +44,7 @@ footer {
 }
 #sum-g {
   margin-bottom: 10px;
-  column-span: 3;
+  column-span: all;
 }
 #shoe-archive {
   margin-bottom: 10px;
