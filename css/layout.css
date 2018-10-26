@@ -40,6 +40,7 @@
 
 #top-pic {
     margin-bottom: 1em;
+    clear: both;
 }
 #sum-g {
   width: 40em;
