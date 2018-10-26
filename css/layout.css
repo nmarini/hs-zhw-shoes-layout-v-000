@@ -30,6 +30,7 @@
 }
 .bottom-col {
   columns: 1px 3;
+  clear: both;
 
 }
 #details {
