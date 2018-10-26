@@ -24,4 +24,6 @@
 
 /* Positioning Classes */
 
-
+.top-col {
+  columns: 100px 2;
+}
