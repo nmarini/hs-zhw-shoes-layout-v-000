@@ -24,9 +24,9 @@
 
 /* Positioning Classes */
 
-.top-col {
+/*.top-col {
   columns: 100px 3;
-}
+}*/
 .bottom-col {
   columns: 100px 3;
   margin-left: 10;
@@ -45,8 +45,10 @@ footer {
 #sum-g {
   margin-bottom: 10px;
   column-span: all;
+  float: left;
 }
 #shoe-archive {
   margin-bottom: 10px;
-  float: right;
+  margin-left: 200px;
 }
+
