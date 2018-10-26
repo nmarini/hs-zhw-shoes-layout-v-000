@@ -25,7 +25,7 @@
 /* Positioning Classes */
 
 .top-col {
-  columns: 100px 2;
+  columns: 100px 3;
 }
 .bottom-col {
   columns: 100px 3;
@@ -40,4 +40,7 @@ footer {
 }
 #top-pic {
     margin-bottom: 1em;
+}
+#sum-g {
+  column-span: 2;
 }
