@@ -30,7 +30,7 @@
 }
 .bottom-col {
   columns: 10px 3;
-  margin: 10;
+  margin: 20;
   clear: both;
 }
 #details {
