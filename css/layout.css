@@ -24,9 +24,8 @@
 
 /* Positioning Classes */
 
-.top-col {
+.bottom-col {
   columns: 100px 2;
-  column-span: 2;
 }
 
 /*div.top-col img {
