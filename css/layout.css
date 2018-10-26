@@ -24,9 +24,7 @@
 
 /* Positioning Classes */
 
-.top-col {
-  columns: 10px 2;
-}
+
 .bottom-col {
   columns: 100px 3;
   margin-left: 10;
