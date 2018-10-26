@@ -29,18 +29,26 @@
 }
 
 .row:after {
-content: ".";
+  content: ".";
   display: block;
   clear: both;
   visibility: hidden;
   height: 0;
   line-height: 0;
 }
+
 [class*="col-"] {
    float: left;
    margin-left: 2%;
  }
 
- [class*-"col-1"]:first-child {
+[class*-"col-1"]:first-child {
    margin-left: 0;
- }
+}
+
+.col-4 { 
+  width: 32%; 
+}
+.col-8 { 
+  width: 66%; 
+}
