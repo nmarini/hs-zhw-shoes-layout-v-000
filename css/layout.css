@@ -29,11 +29,11 @@
   clear: both;
 }
 .bottom-col {
-  columns: 1000px 3;
+  columns: 100px 3;
   margin-left: 10;
 }
 #details {
-  columns: 1px 3;
+  columns: 100px 3;
   width: 1000px;
   margin: 0 auto;
 }
