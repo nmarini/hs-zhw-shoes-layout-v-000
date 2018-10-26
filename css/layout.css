@@ -26,6 +26,7 @@
 
 .top-col {
   display: block;
+  clear: both;
 }
 .bottom-col {
   columns: 100px 3;
