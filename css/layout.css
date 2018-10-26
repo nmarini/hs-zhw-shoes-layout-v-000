@@ -42,6 +42,7 @@
     margin-bottom: 1em;
 }
 #sum-g {
+  width: 10px
   margin-bottom: 10px;
   column-span: all;
   float: left;
