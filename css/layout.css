@@ -33,7 +33,7 @@
   margin-left: 10;
 }
 #details {
-  columns: 100px 3;
+  columns: 1px 3;
   width: 1000px;
   margin: 0 auto;
 }
