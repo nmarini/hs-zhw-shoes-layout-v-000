@@ -27,3 +27,7 @@
 .top-col {
   columns: 100px 3;
 }
+
+div.top-col img {
+  column-span: 2;
+}
