@@ -36,7 +36,6 @@
   columns: 100px 3;
   width: 1000px;
   margin: 0 auto;
-  clear: both;
 }
 
 #top-pic {
@@ -51,4 +50,5 @@
 #shoe-archive {
   margin-bottom: 10px;
   margin-left: 700px;
+  clear: both;
 }
